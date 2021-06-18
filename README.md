@@ -6,7 +6,6 @@ This is a portfolio of all the labs I have completed while learning CCNP and AWS
 
 Certifications: Microsoft Networking Fundamentals
 
-- 🔭 I’m currently working on this page. 
 
 
 
