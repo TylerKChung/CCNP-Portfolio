@@ -6,7 +6,7 @@ This is a portfolio of all the labs I have completed while learning CCNP and AWS
 
 Certifications: Microsoft Networking Fundamentals
 
-
+I am currently looking to get my CCNA certification
 
 
 
