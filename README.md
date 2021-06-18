@@ -1,4 +1,4 @@
-### Hi there, my name is Tyler Cung
+### Hi there, my name is Tyler Chung
 #### I am a student studying CCNP
 ![I am a student studying CCNP](https://www.bleepstatic.com/content/hl-images/2020/10/20/Cisco.jpg)
 
