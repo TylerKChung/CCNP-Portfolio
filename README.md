@@ -4,9 +4,9 @@
 
 This is a portfolio of all the labs I have completed while learning CCNP and AWS concepts. I have experience with OSPF, EIGRP, eBGP and iBGP in both IPv4 and IPv6 as well as experience in AWS.
 
-Certifications: Microsoft Networking Fundamentals
+Certifications: Microsoft Networking Fundamentals, Microsoft Security Fundimentals, Cisco Certified Networking Associate(CCNA)
 
-I am currently looking to get my CCNA certification
+I am currently looking to get my Azure, AWS, and CCNP certifications
 
 
 
